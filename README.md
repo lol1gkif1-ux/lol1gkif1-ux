@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm lol1gkif1-ux! 👋
 
-<!--
-**lol1gkif1-ux/lol1gkif1-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About this profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning how to use Git and GitHub through hands-on lab exercises.
+
+- Practicing repository creation and version control
+- Writing README files with Markdown
+- Exploring open source projects
+
+## My GitHub labs
+
+- [Lab 2-1: Create a new repository](https://github.com/lol1gkif1-ux/lab2-1)
+- Lab 2-2: Create your profile repository
